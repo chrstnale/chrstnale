@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Ale 👋
 
-<!--
-**chrstnale/chrstnale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Bachelor Student of Information Engineering at Gadjah Mada University
+- 🌱 Currently learning JavaScript for web
 
-Here are some ideas to get you started:
+👔 [linkedin].[linkedin] **|**
+📷 [instagram].[instagram] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[instagram]: https://www.instagram.com/chrstn_ale/
+[linkedin]: https://www.linkedin.com/in/christianale/
+
+[![Christian Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrstnale&show_icons=true&theme=synthwave)](https://github.com/chrstnale/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrstnale)](https://github.com/chrstnale/github-readme-stats)
