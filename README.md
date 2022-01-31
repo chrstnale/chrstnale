@@ -1,6 +1,6 @@
 ### Hi, I'm Ale 👋
 
-- 🔭 Undergraduete Student of Information Engineering at Gadjah Mada University
+- 🔭 Information Engineering Undergraduate Student at Gadjah Mada University
 - 🌱 Currently learning JavaScript for web
 
 👔 [Linkedin][linkedin] **|**
