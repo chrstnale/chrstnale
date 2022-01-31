@@ -3,8 +3,8 @@
 - 🔭 Bachelor Student of Information Engineering at Gadjah Mada University
 - 🌱 Currently learning JavaScript for web
 
-👔 [linkedin].[linkedin] **|**
-📷 [instagram].[instagram] 
+👔 [Linkedin][linkedin] **|**
+📷 [Instagram][instagram] 
 
 
 [instagram]: https://www.instagram.com/chrstn_ale/
