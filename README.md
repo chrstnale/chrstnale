@@ -1,14 +1,14 @@
-### Hi, I'm Ale 👋
+hi, i'm ale 👋
 
-- 🔭 Information Engineering Undergraduate Student at Gadjah Mada University
-- 🌱 Currently learning JavaScript for web
+building software businesses. some make money, some make content.
 
-👔 [Linkedin][linkedin] **|**
-📷 [Instagram][instagram] 
+what i'm building
+Dreambooth Studio — software that helps photobooth businesses run better 📸
+Bahela — a photobooth brand where i handle the tech
+how i work
+i build products, not just software. if nobody pays for it, it's a hobby.
+ship first, polish later (usually right after a user complains).
+these days i pair-program with AI agents more than with humans 🤖
+elsewhere
 
-
-[instagram]: https://www.instagram.com/chrstn_ale/
-[linkedin]: https://www.linkedin.com/in/christianale/
-
-[![Christian Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrstnale&show_icons=true&theme=synthwave)](https://github.com/chrstnale/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrstnale)](https://github.com/chrstnale/github-readme-stats)
+LinkedIn · Instagram · Threads
